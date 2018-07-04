@@ -14,6 +14,4 @@ int main()
 	cout << my_vect.resize(5, 10) << endl;
 
 	return 0;
-	
-	//Added a new line
 }
